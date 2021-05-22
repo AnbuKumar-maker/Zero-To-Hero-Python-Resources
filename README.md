@@ -1,14 +1,3 @@
-# [Ultimate-Python-Resource-Hub](https://ayushirawat.com/the-ultimate-python-resource-hub)
-
-The Ultimate resource hub of Python: All at one place
-
-![alt text](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/cover.png)
-
-## [Python Official Documentation](https://docs.python.org/3/)
-
-## Contributing
-Please see [CONTRIBUTING](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ayushi7rawat/Ultimate-Python-Resource-Hub/blob/master/CODE-OF-CONDUCT.md) for details before you contribute.
-
 ## Table of Contents
 [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
 - [Coding Practice Playground for Python](#Coding-Practice-Playground-for-Python)
@@ -270,7 +259,6 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 Anbu Kumar
 www.codingscientist.com
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
 
 
